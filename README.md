@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**DAbhisheK123/DAbhisheK123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello there! I'm Abhishek Gupta, a passionate web developer with a keen interest in MERN stack, AI, and machine learning.
 
-Here are some ideas to get you started:
+## About Me
+🚀 I thrive on turning ideas into reality through the power of code. My journey in web development has been exciting, and I love exploring the latest technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+  🌐 Web Development: Proficient in MERN (MongoDB, Express.js, React, Node.js) stack, HTML, CSS, and JavaScript.
+
+  🐍 Programming Languages: Experienced in Python, C++, and JavaScript for crafting efficient and scalable solutions.
+
+  📊 Databases: Proficient in working with SQL and MongoDB databases.
+
+  🤖 AI & Machine Learning: Enthusiastic about leveraging AI and machine learning to solve real-world problems.
